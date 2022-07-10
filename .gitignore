@@ -1,0 +1,4 @@
+# ignore files containing secrets
+*.txt
+*.json
+*.vsdx
